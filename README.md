@@ -10,10 +10,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  
-   <p>Hoje estou aprofundando meus conhecimentos em Rest API com Spring Boot. Entender e lidar com os principais métodos HTTP (GET, POST, PUT e DELETE), fazer e receber requições em JSON. Consequentemente, dentro desse pacote de estudos, entra JPA, JWT, MAVEN, PADRÃO MVC</p>
+  <div style="display: inline_block"><br>
+   <p>Hoje estou aprofundando meus conhecimentos em Rest API com Spring Boot. Entender e lidar com os principais métodos HTTP (GET, POST, PUT e DELETE), fazer e receber requições em JSON. Consequentemente, dentro desse pacote de estudos, entra JPA, JWT, MAVEN, PADRÃO MVC...</p>
   
   <p>Para o futuro não muito distante, quero estudar o front-end JAVASCRIPT e seus Frameworks mais conhecidos como ANGULAR, REACT e VUE, entender como fazer requisições, consumir dados de API/Web Service e estruturar/renderizar os dados na tela.</p>
+    
+  <div style="display: inline_block"><br>
+
   
   <!-- <img align="center" alt="Vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
