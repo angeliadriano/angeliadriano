@@ -34,8 +34,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeliadriano&layout=compact&langs_count=7&theme=dracula"/>
 </div>-->
 
-<h2>Meus Contatos</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/adrianoangeli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
