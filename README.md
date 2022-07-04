@@ -5,7 +5,7 @@
 - 🎯 Meus projetos e repositórios no Github no momento, são de cursos, conhecimentos e também portfólio.
 
 ### Cursos que já fiz:
-Hoje o meu foco é em cursos Java para Desenvolvimento Backend, [aqui](https://github.com/valquiriamatter/certificados) aqui você consegue ver alguns deles. 
+Hoje o meu foco é em cursos Java para Desenvolvimento Backend.
 
 ### Outras informações sobre mim:
 - 🌎 Eu sou do Brasil, do estado de São Paulo.
