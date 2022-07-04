@@ -10,3 +10,6 @@ Hoje o meu foco é em cursos Java para Desenvolvimento Backend.
 ### Outras informações sobre mim:
 - 🌎 Eu sou do Brasil, do estado de São Paulo.
 - 💻 Eu me graduei em Análise e Desenvolvimento de Softawre.
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=angeliadriano)
