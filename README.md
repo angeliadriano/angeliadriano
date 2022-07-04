@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Olá! Eu sou o Adriano Angeli</h1>
   <p>
   Trabalho com tecnologia desde 2014, onde tive a oportunidade de começar a minha carreira como suporte técnico em sistemas ERP. Trabalhei como suporte técnico até 2016.
