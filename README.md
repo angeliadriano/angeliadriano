@@ -1,15 +1,13 @@
-### Prazer, sou a Adriano Angeli 
+### Hi 🤟, I am Adriano Angeli
 
-### Sobre tecnologia:
-- 📚 Eu estou estudando para me tornar um Desenvolvedor Backend Java. ☕
-- 🎯 Meus projetos e repositórios no Github no momento, são de cursos, conhecimentos e também portfólio.
+Back-end developer, Java☕ and Spring fan.
 
-### Cursos que já fiz:
-Hoje o meu foco é em cursos Java para Desenvolvimento Backend.
+I'm learning at the moment Java and I have any project in my repository 📂https://github.com/angeliadriano?tab=repositories
 
-### Outras informações sobre mim:
-- 🌎 Eu sou do Brasil, do estado de São Paulo.
-- 💻 Eu me graduei em Análise e Desenvolvimento de Softawre.
+### 🚀💻 Technologies & Tools
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 
 
+### 📈 Git Stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=angeliadriano)
