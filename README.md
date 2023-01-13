@@ -12,6 +12,6 @@ I'm learning at the moment Java and I have any project in my repository 📂http
 ### 📈 Git Stats
 ![Adriano's github stats](https://github-readme-stats.vercel.app/api?username=angeliadriano&count_private=true&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeliadriano&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeliadriano)](https://github.com/anuraghazra/github-readme-stats)
 
 
